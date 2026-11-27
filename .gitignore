@@ -1,0 +1,14 @@
+@"
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+"@ | Out-File -FilePath .gitignore -Encoding utf8

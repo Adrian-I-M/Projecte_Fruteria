@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Manzana Golden",
+        "categoria": "Fruta",
+        "precioKg": 2.1,
+        "stockKg": 23.0
+    },
+    {
+        "id": 2,
+        "nombre": "Plátano de Canarias",
+        "categoria": "Fruta",
+        "precioKg": 2.65,
+        "stockKg": 4.0
+    },
+    {
+        "id": 3,
+        "nombre": "Tomate Pera",
+        "categoria": "Verdura",
+        "precioKg": 1.8,
+        "stockKg": 15.0
+    }
+]
